@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/4ga-landing-page/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/4ga-landing-page/static/js/main.62cfd346.chunk.js",
+    "main.js.map": "/4ga-landing-page/static/js/main.62cfd346.chunk.js.map",
+    "runtime-main.js": "/4ga-landing-page/static/js/runtime-main.79413c17.js",
+    "runtime-main.js.map": "/4ga-landing-page/static/js/runtime-main.79413c17.js.map",
+    "static/css/2.658248ec.chunk.css": "/4ga-landing-page/static/css/2.658248ec.chunk.css",
+    "static/js/2.e2829226.chunk.js": "/4ga-landing-page/static/js/2.e2829226.chunk.js",
+    "static/js/2.e2829226.chunk.js.map": "/4ga-landing-page/static/js/2.e2829226.chunk.js.map",
+    "static/js/3.5420a53a.chunk.js": "/4ga-landing-page/static/js/3.5420a53a.chunk.js",
+    "static/js/3.5420a53a.chunk.js.map": "/4ga-landing-page/static/js/3.5420a53a.chunk.js.map",
+    "index.html": "/4ga-landing-page/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/4ga-landing-page/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/4ga-landing-page/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e2829226.chunk.js.LICENSE.txt": "/4ga-landing-page/static/js/2.e2829226.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/4ga-landing-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79413c17.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.e2829226.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.62cfd346.chunk.js"
+  ]
+}
